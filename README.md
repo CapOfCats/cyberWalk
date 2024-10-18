@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/53328d02-64c0-4273-beac-fcf6df77ee9d)# cyberWalk
 The step-based Role-Play game, made simple with Windows.Forms. Your aim is to defeat 3 bosses.
 Implemented as a fan-project, with open-source resourses.
 
