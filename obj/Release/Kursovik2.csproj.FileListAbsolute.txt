@@ -1,0 +1,10 @@
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Release\Kursovik2.exe.config
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Release\Kursovik2.exe
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Release\Kursovik2.pdb
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.csprojAssemblyReference.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.Form1.resources
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.Properties.Resources.resources
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.csproj.GenerateResource.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.csproj.CoreCompileInputs.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.exe
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Release\Kursovik2.pdb

@@ -1,0 +1,30 @@
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Debug\Kursovik2.exe.config
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Debug\Kursovik2.exe
+D:\Дрова и утилиты\MSVS\Kursovik2\bin\Debug\Kursovik2.pdb
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.csprojAssemblyReference.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.Form1.resources
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.Properties.Resources.resources
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.csproj.GenerateResource.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.csproj.CoreCompileInputs.cache
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.exe
+D:\Дрова и утилиты\MSVS\Kursovik2\obj\Debug\Kursovik2.pdb
+F:\Kursovik2\bin\Debug\Kursovik2.exe.config
+F:\Kursovik2\bin\Debug\Kursovik2.exe
+F:\Kursovik2\bin\Debug\Kursovik2.pdb
+F:\Kursovik2\obj\Debug\Kursovik2.csproj.AssemblyReference.cache
+F:\Kursovik2\obj\Debug\Kursovik2.Form1.resources
+F:\Kursovik2\obj\Debug\Kursovik2.Properties.Resources.resources
+F:\Kursovik2\obj\Debug\Kursovik2.csproj.GenerateResource.cache
+F:\Kursovik2\obj\Debug\Kursovik2.csproj.CoreCompileInputs.cache
+F:\Kursovik2\obj\Debug\Kursovik2.exe
+F:\Kursovik2\obj\Debug\Kursovik2.pdb
+E:\Kursovik2\bin\Debug\Kursovik2.exe.config
+E:\Kursovik2\bin\Debug\Kursovik2.exe
+E:\Kursovik2\bin\Debug\Kursovik2.pdb
+E:\Kursovik2\obj\Debug\Kursovik2.csprojAssemblyReference.cache
+E:\Kursovik2\obj\Debug\Kursovik2.Form1.resources
+E:\Kursovik2\obj\Debug\Kursovik2.Properties.Resources.resources
+E:\Kursovik2\obj\Debug\Kursovik2.csproj.GenerateResource.cache
+E:\Kursovik2\obj\Debug\Kursovik2.csproj.CoreCompileInputs.cache
+E:\Kursovik2\obj\Debug\Kursovik2.exe
+E:\Kursovik2\obj\Debug\Kursovik2.pdb
